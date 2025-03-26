@@ -3,7 +3,7 @@ public class mataKuliah {
     private String nama;
     private String index;
     private int sks;
-    String dosenPengampu;
+    private String dosenPengampu;
 
 //    konstruktor
     public mataKuliah(String kode, String nama, String index, int sks, String dosenPengampu){

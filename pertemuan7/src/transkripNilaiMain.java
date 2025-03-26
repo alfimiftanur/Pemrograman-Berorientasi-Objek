@@ -2,8 +2,8 @@ public class transkripNilaiMain {
     public static void main(String[] args) {
 
 //    crate object matakuliah
-        mataKuliah mk1 = new mataKuliah("001", "Algoritma Pemrograman 1", "A", 3, "Leony");
-        mataKuliah mk2 = new mataKuliah("002", "Algoritma Pemrograman 2", "BC", 3, "Leony");
+        mataKuliah mk1 = new mataKuliah("001", "Algoritma Pemrograman 1", "A", 3, "Dr. Leony Lidya, M.T.");
+        mataKuliah mk2 = new mataKuliah("002", "Algoritma Pemrograman 2", "BC", 3, "Dr. Leony Lidya, M.T.");
         mataKuliah mk3 = new mataKuliah("003", "Pemrograman Berorientasi Objek", "B", 3, "Siroj Nur Ulum, S.T., M.T.");
 
 //    create object khs
